@@ -10,7 +10,6 @@
 
 ```sh
 # project setup
-$ git clone git@github.com:bonitoflakez/college-student-management-system
 
 $ cd college-student-management-system
 
